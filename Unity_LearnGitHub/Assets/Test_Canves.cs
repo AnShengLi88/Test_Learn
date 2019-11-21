@@ -9,6 +9,7 @@ public class Test_Canves : MonoBehaviour
     public Image Image_bg;
     public GameObject Button_Close;
     public ScrollRect ScrollRect_None;
+    public Slider Slider_Volue;
 
 	// Use this for initialization
 	void Start () {
