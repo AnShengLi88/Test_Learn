@@ -10,6 +10,7 @@ public class Test_Canves : MonoBehaviour
     public GameObject Button_Close;
     public ScrollRect ScrollRect_None;
     public Slider Slider_Volue;
+    public Toggle Toggle_test;
 
 	// Use this for initialization
 	void Start () {
